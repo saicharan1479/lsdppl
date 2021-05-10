@@ -1,0 +1,7 @@
+from date,Todate,Category,milktype,ratecalculation,commtype,fixedvALUE,snf value,snf deduction,fat from,fat to,penalty,deductioncal,premium,amount,sour_milk,minrate,curdratee,sourmilkrate,minfat,maxfat,minsnf,maxsnf,tsrate
+01-01-2021,28-02-2021,A,CM,LtrRate,Ltr TSRate,35,Actual,FALSE,0,0,0,LTR,0,0,LTtr,0,0,0,0,5,7.3,7.5,180
+01-01-2021,28-02-2021,A,CM,LtrRate,Ltr TSRate,35,Actual,FALSE,0,0,0,LTR,0,0,LTtr,0,0,0,0,5,7.6,7.7,195
+01-01-2021,28-02-2021,A,CM,LtrRate,Ltr TSRate,35,Actual,FALSE,0,0,0,LTR,0,0,LTtr,0,0,0,0,5,7.8,7.9,200
+01-01-2021,28-02-2021,A,CM,LtrRate,Ltr TSRate,35,Actual,FALSE,0,0,0,LTR,0,0,LTtr,0,0,0,0,5,8,8.2,225
+01-01-2021,28-02-2021,A,CM,LtrRate,Ltr TSRate,35,Actual,FALSE,0,0,0,LTR,0,0,LTtr,0,0,0,0,5,8.3,8.5,230
+01-01-2021,28-02-2021,A,CM,LtrRate,Ltr TSRate,35,Actual,FALSE,0,0,0,LTR,0,0,LTtr,0,0,0,0,5,8.6,15,235

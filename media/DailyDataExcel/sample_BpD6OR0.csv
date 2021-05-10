@@ -1,0 +1,6 @@
+Branch Code,Date,Shift,CenterCode,Milk Type,Good / Sour,Sample No,Cans,Kgs,Fat ,SNF,CLR,TSRATE,LtrRate,Comm,Amount
+velp,2020-05-21,am,1254,CM,Good,6,12,160,4,8,20,20,5,60,6
+gvp,2020-06-26,pm,7894,BM,Sour,7,23,450,7,9,52,6,4,8,6
+vnk,2020-07-09,am,685,CM,Good,8,56,590,4,8,5,6,2,8,6
+nrt,2020-09-08,am,726,BM,Sour,9,25,364,7,9,21,645,46,46,46
+gnt,2020-03-06,pm,786,CM,Good,5,31,658,5,6,3,5,4,6,6

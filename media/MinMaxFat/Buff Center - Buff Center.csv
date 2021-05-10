@@ -1,0 +1,3 @@
+from date,Todate,Centercode,milktype,ratecalculation,commtype,fixedvALUE,snf value,snf deduction,fat from,fat to,penalty,deductioncal,premium,amount,sour_milk,minrate,curdratee,sourmilkrate,minfat,maxfat,minsnf,maxsnf,tsrate,centercode_id
+01-01-2023,01-03-2023,C1,CM,LtrRate,LtrTsRate,35,Actual,TRUE,1,2,3,Ltr,4,5,Ltr,6,7,8,9,10,11,12,255,routecode_id
+01-01-2025,01-03-2025,C2,CM,LtrRate,LtrTsRate,45,Actual,FALSE,2,3,4,Ltr,5,6,Ltr,7,8,9,10,11,12,13,265,routecode_id
